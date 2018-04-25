@@ -14,7 +14,7 @@ public class P2Main {
 		int[] ts = new int [2];
 		ts[0] = 0;
 		Random rnd = new Random();
-		int n = 21;
+		int n = 31;
 		int m = 20;
 		
 		String parentDirectory = "inputFiles";
